@@ -12,5 +12,5 @@ Custom modpack for the SkyChat community to enjoy playing together.
 
 ## Suits
 
-3 new suits are added with this modpack, here is a preview:
+4 new suits are added with this modpack, here is a preview:
 <img src="icon.png" />
